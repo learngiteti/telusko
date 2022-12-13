@@ -7,7 +7,8 @@ def square(self,n):
 s=square(5)
 print(s)
 
-
+def fun():
+  pass
 
 thanks 
 
