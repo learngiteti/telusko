@@ -6,3 +6,9 @@ def square(self,n):
   return sq
 s=square(5)
 print(s)
+
+
+
+thanks 
+
+Eti khandelwal
